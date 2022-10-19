@@ -1,1 +1,2 @@
 # grid
+Практика по bootstrap
